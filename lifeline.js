@@ -4,52 +4,46 @@ var data = [
     "year": 2014,
     "img": "img/26.jpg",
     "changes" : [
-      "I continue to work for Google on Google Compute Engine as a Software Reliability Engineer.",
-      "I moved to London.",
-      "I dated one woman.",
+      "Motorola is sold to electronics manufacturer Lenovo. I return to Google in search of a new role.",
+      "Extensively traveled to Motorola's Chicago-based HQ, and become acquainted with the great windy city.",
+      "Attend 15 weddings around the world. I'm in two of them."
+      "Countries Visited: Korea 2x, Japan, India, Jordan, Spain, England.",
     ],
   },
   {
-    "release": "Niket Desai 2.5",
+    "release": "Niket Desai 3.0",
     "year": 2013,
     "changes" : [
-      "I continue to work for Google, but have changed jobs to work on Google Compute Engine and Google Cloud Storage as a Software Reliability Engineer.",
-      "I visited Missouri for in March 2012 to celebrate my grandmothers 90th birthday.",
-      "I made multiple trips to Seattle for work, on which I usually visited Johnny Scout, Mark, Becky and Jeff.",
-      "I attended Open Source Bridge in Portland.",
-      "I saw the third launch of Space X's Dragon at Cape Canaveral with Niket.",
-      "I dated two women.",
+      "I continue to work at Google, but have joined Motorola as a Product Manager to reinvigorate the once venerable company under Punit Soni",
+      "I saw the third launch of Space X's Dragon at Cape Canaveral with Nat Welch.",
+      "Trained at a ",
+      "Underwent BEP Chemotherapy to stop Cancer from spreading throughout my body. It was, and will be, the worst experience in my entire life.",
+      "Underwent Septoplasty surgery to help me sleep and rest from residual issues related to chemotherapy.",
+      "Countries Visited: India, Singapore, Malaysia, Korea.",
     ],
   },
   {
-    "release": "Niket Desai 2.4",
+    "release": "Niket Desai 2.",
     "year": 2012,
     "img": "img/24.jpg",
     "changes" : [
-      "I continued to work for Google in the Commerce Group.",
-      "I visited St. Luis, Missouri for the Strange Loop conference.",
-      "I attended Burning Man for the first time.",
+      "I was diagnosed with Cancer at PAMF in Mountain View with my Dad and Matt Pies present."
+      "Underwent two GA surgeries: Radical Orchiectemy, Retroperitoneal Lymph Node Dissection (RPLND).",
+      "Serve as groomsman in Xander's wedding in SLO. Attend 4 weddings.",
+      "I dated 1 woman.",
+      "Countries Visited: Mexico, Finland, England." ,
+      
     ],
   },
   {
-    "release": "Niket Desai 2.3.5-europe",
+    "release": "Niket Desai 2.3",
     "img": "img/235europe.jpg",
     "year": 2011,
     "changes" : [
-      "I completed a one month trip to Europe. During this trip I visited the UK, including the towns of London, Edinburgh, Glasgow, York and Harrogate. I also visited Paris, France on this trip and was able to meet up with both my Family and Shawn Tice while traveling.",
-      "I was hired by Punchd Labs Inc., which was subsequently acquired by Google. I started working at Google on August 8th.",
-      "I graduated College with a B.S. in Computer Science at the California Polytechnic State University in San Luis Obispo, California. I commenced on June 11th, 2011.",
-      "I quit working for iFixit.com after two years in April. This was a tough choice, but am looking forward to the future.",
+      "Punchd was acquired by Google into the Mobile Apps Lab, in the Local Geo unit",
+      "Punchd ",
+      "Countries Visited: France." ,
     ],
-  },
-  {
-    "release" : "Niket Desai 2.3",
-    "img": "img/23.jpg",
-    "year": 2011,
-    "changes" : [
-      "Spent my second summer living in SLO, this time at the house I had been living in since Spetember. I continued work at iFixit.com.",
-      "I visited Aaron Shaw in NYC, where he was interning for a financial company.",
-    ]
   },
   {
     "release" : "Niket Desai 2.2",
@@ -121,18 +115,18 @@ var data = [
     ]
   },
   {
-    "release" : "Niket Desai 1.3",
-    "year": 2001,
+    "release" : "Niket Desai 1.0",
+    "year": 1999,
     "changes" : [
-      "I started Middle School at Cupertino Middle School in Sunnyvale, CA.",
-      "Survived the Y2K bug and the transition into the new millenium."
+      "I moved to Singapore with family",
     ]
   },
   {
     "release" : "Niket Desai 0.9",
-    "year": 1997,
+    "year": 1998,
     "changes" : [
-      "My younger brother Travis was born on December 30th, 1996."
+      "Attended the FRA-ITA quarterfinal match in the World Cup. France would win, and go on to become world champions.",
+      "Spent significant time in Paris and London with the Family.",
     ]
   },
   {
@@ -159,10 +153,18 @@ var data = [
     ]
   },
   {
+    "release" : "Niket Desai 0.1",
+    "year": 1988,
+    "img": "img/1.jpg",
+    "changes" : [
+      "Countries Visited: India",
+    ]
+  },
+  {
     "release" : "Niket Desai 0.0",
     "year": 1987,
     "changes" : [
-      "Project Init on August 2, 2987. Initial maintainers Meena Desai and Naushik Desai. Birthed at Good Samaritan.",
+      "Project Init on August 2, 2987. Initial maintainers Meena Desai and Naushik Desai. Birthed at Good Samaritan in San Jose, CA.",
     ]
   },
 ];
