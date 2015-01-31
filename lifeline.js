@@ -1,6 +1,6 @@
 var data = [
   {
-    "release": "Nat Welch 2.6",
+    "release": "Niket Desai 2.6",
     "year": 2014,
     "img": "img/26.jpg",
     "changes" : [
@@ -10,7 +10,7 @@ var data = [
     ],
   },
   {
-    "release": "Nat Welch 2.5",
+    "release": "Niket Desai 2.5",
     "year": 2013,
     "changes" : [
       "I continue to work for Google, but have changed jobs to work on Google Compute Engine and Google Cloud Storage as a Software Reliability Engineer.",
@@ -22,7 +22,7 @@ var data = [
     ],
   },
   {
-    "release": "Nat Welch 2.4",
+    "release": "Niket Desai 2.4",
     "year": 2012,
     "img": "img/24.jpg",
     "changes" : [
@@ -32,7 +32,7 @@ var data = [
     ],
   },
   {
-    "release": "Nat Welch 2.3.5-europe",
+    "release": "Niket Desai 2.3.5-europe",
     "img": "img/235europe.jpg",
     "year": 2011,
     "changes" : [
@@ -43,7 +43,7 @@ var data = [
     ],
   },
   {
-    "release" : "Nat Welch 2.3",
+    "release" : "Niket Desai 2.3",
     "img": "img/23.jpg",
     "year": 2011,
     "changes" : [
@@ -52,7 +52,7 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 2.2",
+    "release" : "Niket Desai 2.2",
     "year": 2010,
     "img" : "img/22.jpg",
     "changes" : [
@@ -61,7 +61,7 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 2.1",
+    "release" : "Niket Desai 2.1",
     "img": "img/21.jpg",
     "year": 2009,
     "changes" : [
@@ -71,7 +71,7 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 2.0",
+    "release" : "Niket Desai 2.0",
     "year": 2008,
     "changes" : [
       "Over the summer I traveled to China and visited Beijing, Shanghai, Xiao and ____.",
@@ -80,7 +80,7 @@ var data = [
     ]
   },
   {
-    "release": "Nat Welch 1.9",
+    "release": "Niket Desai 1.9",
     "year": 2007,
     "changes": [
       "I graduated highschool on June 9th, 2006 from Maria Carillo High School in Santa Rosa, CA.",
@@ -91,28 +91,28 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 1.8",
+    "release" : "Niket Desai 1.8",
     "year": 2005,
     "changes" : [
       "I worked for the Sonoma County Information Services Department while taking trigonometry at the Santa Rosa Junior College.",
     ]
   },
   {
-    "release" : "Nat Welch 1.7",
+    "release" : "Niket Desai 1.7",
     "year": 2005,
     "changes" : [
       "Worked as a Scoutcraft staff at Oljato over the Summer.",
     ]
   },
   {
-    "release" : "Nat Welch 1.6",
+    "release" : "Niket Desai 1.6",
     "year": 2004,
     "changes" : [
       "Worked as an SIR at Oljato over the Summer.",
     ]
   },
   {
-    "release" : "Nat Welch 1.5",
+    "release" : "Niket Desai 1.5",
     "year": 2003,
     "changes" : [
       "Moved into 3711 Skyfarm Rd. in Santa Rosa, CA.",
@@ -121,7 +121,7 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 1.3",
+    "release" : "Niket Desai 1.3",
     "year": 2001,
     "changes" : [
       "I started Middle School at Cupertino Middle School in Sunnyvale, CA.",
@@ -129,14 +129,14 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 0.9",
+    "release" : "Niket Desai 0.9",
     "year": 1997,
     "changes" : [
       "My younger brother Travis was born on December 30th, 1996."
     ]
   },
   {
-    "release" : "Nat Welch 0.5",
+    "release" : "Niket Desai 0.5",
     "year": 1993,
     "changes" : [
       "Moved into 1227 St. Matthew Way, Los Altos, CA.",
@@ -144,24 +144,25 @@ var data = [
     ]
   },
   {
-    "release" : "Nat Welch 0.4",
+    "release" : "Niket Desai 0.4",
     "year": 1992,
     "changes" : [
       "Started pre-school and Ellen Thatcher. Met Aaron Shaw and Paul Morrill, became good friends.",
     ]
   },
   {
-    "release" : "Nat Welch 0.1",
+    "release" : "Niket Desai 0.1",
     "year": 1989,
     "img": "img/1.jpg",
     "changes" : [
+      "Countries Visited: ",
     ]
   },
   {
-    "release" : "Nat Welch 0.0",
-    "year": 1988,
+    "release" : "Niket Desai 0.0",
+    "year": 1987,
     "changes" : [
-      "Project Init on Feburary 22nd, 1988. Initial maintainers Lydia Ann Dehn and David Cushman Welch. Birthed at Stanford Medical.",
+      "Project Init on August 2, 2987. Initial maintainers Meena Desai and Naushik Desai. Birthed at Good Samaritan.",
     ]
   },
 ];
