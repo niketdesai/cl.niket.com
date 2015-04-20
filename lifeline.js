@@ -1,12 +1,10 @@
 var data = [
   {
     "release": "com.desai.niket 3.1",
-    "year": 2014,
+    "year": 2015,
     "img": "img/26.jpg",
     "changes" : [
-      "Motorola is sold to electronics manufacturer Lenovo. I return to Google in search of a new role.",
-      "Extensively traveled to Motorola's Chicago-based HQ, and become acquainted with the great windy city.",
-      "Attend 15 weddings around the world. I'm in two of them."
+      "I move to Bangalore, India, to join Flipkart as Chief of Staff.",
       "Countries visited: Denmark, England, Hong Kong, India, Sweden, Taipei",
     ],
   },
