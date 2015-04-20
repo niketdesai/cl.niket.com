@@ -1,17 +1,28 @@
 var data = [
   {
-    "release": "Niket Desai 2.6",
+    "release": "com.desai.niket 3.1",
     "year": 2014,
     "img": "img/26.jpg",
     "changes" : [
       "Motorola is sold to electronics manufacturer Lenovo. I return to Google in search of a new role.",
       "Extensively traveled to Motorola's Chicago-based HQ, and become acquainted with the great windy city.",
       "Attend 15 weddings around the world. I'm in two of them."
-      "Countries Visited: Korea 2x, Japan, India, Jordan, Spain, England.",
+      "Countries visited: Denmark, England, Hong Kong, India, Sweden, Taipei",
     ],
   },
   {
-    "release": "Niket Desai 3.0",
+    "release": "com.desai.niket 3.1",
+    "year": 2014,
+    "img": "img/26.jpg",
+    "changes" : [
+      "Motorola is sold to electronics manufacturer Lenovo. I return to Google in search of a new role.",
+      "Extensively traveled to Motorola's Chicago-based HQ, and become acquainted with the great windy city.",
+      "Attend 15 weddings around the world. I'm in two of them."
+      "Countries visited: England, India, Jordan, Korea, Spain",
+    ],
+  },
+  {
+    "release": "com.desai.niket 3.0",
     "year": 2013,
     "changes" : [
       "I continue to work at Google, but have joined Motorola as a Product Manager to reinvigorate the once venerable company under Punit Soni",
@@ -19,11 +30,11 @@ var data = [
       "Trained at a ",
       "Underwent BEP Chemotherapy to stop Cancer from spreading throughout my body. It was, and will be, the worst experience in my entire life.",
       "Underwent Septoplasty surgery to help me sleep and rest from residual issues related to chemotherapy.",
-      "Countries Visited: India, Singapore, Malaysia, Korea.",
+      "Countries visited: India, Korea, Malaysia, Singapore, Malaysia",
     ],
   },
   {
-    "release": "Niket Desai 2.",
+    "release": "com.desai.niket 2.",
     "year": 2012,
     "img": "img/24.jpg",
     "changes" : [
@@ -31,106 +42,117 @@ var data = [
       "Underwent two GA surgeries: Radical Orchiectemy, Retroperitoneal Lymph Node Dissection (RPLND).",
       "Serve as groomsman in Xander's wedding in SLO. Attend 4 weddings.",
       "I dated 1 woman.",
-      "Countries Visited: Mexico, Finland, England." ,
+      "Countries visited: England, Finland, Hong Kong, India Mexico, Singapore" ,
       
     ],
   },
   {
-    "release": "Niket Desai 2.3",
-    "img": "img/235europe.jpg",
+    "release": "com.desai.niket 2.3",
+    "img": "",
     "year": 2011,
     "changes" : [
-      "Punchd was acquired by Google into the Mobile Apps Lab, in the Local Geo unit",
+      "Punchd was acquired by Google, into the Mobile Apps Lab, under Marissa Mayer's Geo Unit",
       "Punchd ",
-      "Countries Visited: France." ,
+      "Countries visited: France, Hong Kong, India, Macau" ,
     ],
   },
   {
-    "release" : "Niket Desai 2.2",
+    "release" : "com.desai.niket 2.2",
     "year": 2010,
-    "img" : "img/22.jpg",
+    "img" : "",
     "changes" : [
-      "I started working at iFixit.com in April. Made a lot of awesome friends through the company.",
-      "Spent the summer living at 2058 Loomis St. Probably one of my best summers in college so far.",
+      "Countries visited: Germany",
     ]
   },
   {
-    "release" : "Niket Desai 2.1",
+    "release" : "com.desai.niket 2.1",
     "img": "img/21.jpg",
     "year": 2009,
     "changes" : [
-      "Moved into my first off campus housing on Southwood Dr. in San Luis Obispo, CA.",
-      "I attended <abbr title=\"Penny Arcade Expo\">PAX</abbr> in Seattle, Washington with three of my friends Mark Gius, Dave Dagget and Chris Harsch.",
-      "I interned for a second summer at Adobe, working again as a Quality Engineering Intern for the Dreamweaver team. I worked on a project called Web Widgets which ended up winning the community feature of the year award.",
+      "Countries visited: "
     ]
   },
   {
-    "release" : "Niket Desai 2.0",
+    "release" : "com.desai.niket 2.0",
     "year": 2008,
     "changes" : [
-      "Over the summer I traveled to China and visited Beijing, Shanghai, Xiao and ____.",
-      "I attended <abbr title=\"Penny Arcade Expo\">PAX</abbr> in Seattle, Washington with my two friends Dave Dagget and Chris Harsch. We stayed with my wonderful cousin Becky and her husband Jeff.",
-      "I interned at Adobe as a Quality Engineering Intern for the Dreamweaver team. I helped deliver CS4 and commuted daily from Los Gatos to the SF offices.",
+      "Countries visited: ",
     ]
   },
   {
-    "release": "Niket Desai 1.9",
+    "release": "com.desai.niket 1.9",
     "year": 2007,
     "changes": [
-      "I graduated highschool on June 9th, 2006 from Maria Carillo High School in Santa Rosa, CA.",
-      "I attended BFD, an all day festival in Mountain View, CA, to celebrate with my friend Chris Harsch.",
-      "I started college at Cal Poly.",
-      "My parents moved to 16201 Shannon Rd. in Los Gatos, CA.",
-      "I spent the summer working at Oljato as the Nature Director.",
+      "Countries visited: ",
     ]
   },
   {
-    "release" : "Niket Desai 1.8",
+    "release" : "com.desai.niket 1.8",
+    "year": 2006,
+    "changes" : [
+      "Countries visited: ",
+    ]
+  },
+  {
+    "release" : "com.desai.niket 1.7",
     "year": 2005,
     "changes" : [
-      "I worked for the Sonoma County Information Services Department while taking trigonometry at the Santa Rosa Junior College.",
+      "Achieved Eagle Scout rank with the BSA, capping a 10 year journey.",
+      "Countries visited: France, Italy, Spain",
     ]
   },
   {
-    "release" : "Niket Desai 1.7",
-    "year": 2005,
-    "changes" : [
-      "Worked as a Scoutcraft staff at Oljato over the Summer.",
-    ]
-  },
-  {
-    "release" : "Niket Desai 1.6",
+    "release" : "com.desai.niket 1.6",
     "year": 2004,
     "changes" : [
-      "Worked as an SIR at Oljato over the Summer.",
+      "Countries visited: Singapore"
     ]
   },
   {
-    "release" : "Niket Desai 1.5",
+    "release" : "com.desai.niket 1.5",
     "year": 2003,
     "changes" : [
-      "Moved into 3711 Skyfarm Rd. in Santa Rosa, CA.",
-      "Began High School at Maria Carillo High School.",
-      "Worked as an SIR at Oljato over the Summer.",
+      "Countries visited: India",
     ]
   },
   {
-    "release" : "Niket Desai 1.0",
+    "release" : "com.desai.niket 1.5",
+    "year": 2002,
+    "changes" : [
+      "Countries visited: China, India, Indonesia, Malaysia",
+    ]
+  },
+  {
+    "release" : "com.desai.niket 1.5",
+    "year": 2001,
+    "changes" : [
+      "Countries visited: Australia, India, Indonesia, Malaysia, New Zealand ",
+    ]
+  },
+  {
+    "release" : "com.desai.niket 1.5",
+    "year": 2000,
+    "changes" : [
+      "Countries visited: Cambodia, Malaysia, Thailand, Vietnam",
+    ]
+  },
+  {
+    "release" : "com.desai.niket 1.0",
     "year": 1999,
     "changes" : [
       "I moved to Singapore with family",
+      "Countries visited: India, Indonesia, Singapore"
     ]
   },
   {
-    "release" : "Niket Desai 0.9",
+    "release" : "com.desai.niket 0.9",
     "year": 1998,
     "changes" : [
-      "Attended the FRA-ITA quarterfinal match in the World Cup. France would win, and go on to become world champions.",
-      "Spent significant time in Paris and London with the Family.",
+      "Countries visited: England, France"
     ]
   },
   {
-    "release" : "Niket Desai 0.5",
+    "release" : "com.desai.niket 0.5",
     "year": 1993,
     "changes" : [
       "Moved into 1227 St. Matthew Way, Los Altos, CA.",
@@ -138,33 +160,33 @@ var data = [
     ]
   },
   {
-    "release" : "Niket Desai 0.4",
+    "release" : "com.desai.niket 0.4",
     "year": 1992,
     "changes" : [
       "Started pre-school and Ellen Thatcher. Met Aaron Shaw and Paul Morrill, became good friends.",
     ]
   },
   {
-    "release" : "Niket Desai 0.1",
+    "release" : "com.desai.niket 0.1",
     "year": 1989,
     "img": "img/1.jpg",
     "changes" : [
-      "Countries Visited: ",
+      "Countries visited: ",
     ]
   },
   {
-    "release" : "Niket Desai 0.1",
+    "release" : "com.desai.niket 0.1",
     "year": 1988,
     "img": "img/1.jpg",
     "changes" : [
-      "Countries Visited: India",
+      "Countries visited: India",
     ]
   },
   {
-    "release" : "Niket Desai 0.0",
+    "release" : "com.desai.niket 0.0",
     "year": 1987,
     "changes" : [
-      "Project Init on August 2, 2987. Initial maintainers Meena Desai and Naushik Desai. Birthed at Good Samaritan in San Jose, CA.",
+      "Project Init on [REDACTED], 1987 5:07AM. Initial maintainers Meena Desai and Naushik Desai. Birthed at Good Samaritan in San Jose, CA.",
     ]
   },
 ];
