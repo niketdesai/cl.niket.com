@@ -15,7 +15,7 @@ var data = [
     "changes" : [
       "Motorola is sold to electronics manufacturer Lenovo. I return to Google in search of a new role.",
       "Extensively traveled to Motorola's Chicago-based HQ, and become acquainted with the great windy city.",
-      "Attend 15 weddings around the world. I'm in two of them."
+      "Attend 15 weddings around the world. I'm in two of them.",
       "Countries visited: England, India, Jordan, Korea, Spain",
     ],
   },
@@ -36,7 +36,7 @@ var data = [
     "year": 2012,
     "img": "img/24.jpg",
     "changes" : [
-      "I was diagnosed with Cancer at PAMF in Mountain View with my Dad and Matt Pies present."
+      "I was diagnosed with Cancer at PAMF in Mountain View with my Dad and Matt Pies present.",
       "Underwent two GA surgeries: Radical Orchiectemy, Retroperitoneal Lymph Node Dissection (RPLND).",
       "Serve as groomsman in Xander's wedding in SLO. Attend 4 weddings.",
       "I dated 1 woman.",
@@ -67,7 +67,7 @@ var data = [
     "img": "img/21.jpg",
     "year": 2009,
     "changes" : [
-      "Countries visited: "
+      "Countries visited: ",
     ]
   },
   {
@@ -103,7 +103,7 @@ var data = [
     "release" : "com.desai.niket 1.6",
     "year": 2004,
     "changes" : [
-      "Countries visited: Singapore"
+      "Countries visited: Singapore",
     ]
   },
   {
@@ -139,14 +139,14 @@ var data = [
     "year": 1999,
     "changes" : [
       "I moved to Singapore with family",
-      "Countries visited: India, Indonesia, Singapore"
+      "Countries visited: India, Indonesia, Singapore",
     ]
   },
   {
     "release" : "com.desai.niket 0.9",
     "year": 1998,
     "changes" : [
-      "Countries visited: England, France"
+      "Countries visited: England, France",
     ]
   },
   {
