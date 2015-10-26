@@ -1,11 +1,11 @@
 var data = [
   {
-    "release": "com.desai.niket 3.1",
+    "release": "com.desai.niket 3.2",
     "year": 2015,
     "img": "img/",
     "changes" : [
-      "I move to Bangalore, India, to join Flipkart as Chief of Staff for my old Google & Motorola VP, Punit Soni.",
-      "Countries visited: Denmark, Egypt, England, Hong Kong, India, Malaysia, Mexico, Sweden, Taipei, United Arab Emirates",
+      "Move to Bangalore, India, to join Flipkart as Chief of Staff under my old Google & Motorola VP, Punit Soni.",
+      "Travels: Denmark, Egypt, England, Hong Kong, India, Malaysia, Mexico, Singapore, Sweden, Taipei, UAE, USA",
     ],
   },
   {
@@ -14,9 +14,9 @@ var data = [
     "img": "img/",
     "changes" : [
       "Motorola is sold to electronics manufacturer Lenovo. I return to Google in search of a new role.",
-      "Extensively traveled to Motorola's Chicago-based HQ, and become acquainted with the great windy city.",
+      "Extensively travel to Motorola's Chicago-based HQ (becoming fond of the great Windy City).",
       "Attend 15 weddings around the world. I'm in two of them.",
-      "Countries visited: England, India, Jordan, Korea, Spain",
+      "Travels: England, India, Japan, Jordan, Korea, Spain",
     ],
   },
   {
@@ -24,11 +24,11 @@ var data = [
     "year": 2013,
     "img": "img/",
     "changes" : [
-      "I continue to work at Google joining their newly acquired Motorola Division to help reinvigorate the once venerable company.",
-      "Attend the third launch of Space X's Dragon at Cape Canaveral with Nat Welch - a personal bucket list item.",
-      "Undergo chemotherapy to stop cancer from spreading throughout my body. It was, and will be, the worst experience of entire life.",
-      "Punchd is formally shut down, accomplishing far less than I had hoped.",
-      "Countries visited: India, Korea, Malaysia, Singapore, ",
+      "Return to Google joining their Motorola division to help reinvigorate the once venerable company.",
+      "Attend third launch of Space X's Dragon at Cape Canaveral with Nat Welch (a personal bucket list item).",
+      "Undergo heavy chemotherapy to stop cancer from spreading throughout my body. It is the worst experience of my entire life.",
+      "Punchd is formally shut down, accomplishing far less than our aspirations.",
+      "Travels: India, Korea, Malaysia, Singapore",
     ],
   },
   {
@@ -36,11 +36,11 @@ var data = [
     "year": 2012,
     "img": "img/",
     "changes" : [
-      "Diagnosed with Cancer at PAMF in Mountain View with my Dad and Matt Pies present.",
-      "Complete two GA surgeries: Radical Orchiectemy, Retroperitoneal Lymph Node Dissection (RPLND).",
+      "Receive cancer diagnosis at PAMF, Mountain View, CA, with Dad and Matt Pies present.",
+      "Complete two GA surgeries: Radical Orchiectomy, Retroperitoneal Lymph Node Dissection (RPLND).",
       "Serve as groomsman in Xander and Maleesa's wedding in SLO. Attend four other weddings.",
-      "Dated 1 woman.",
-      "Countries visited: England, Finland, Hong Kong, India, Mexico, Singapore",
+      "Date 1 woman.",
+      "Travels: England, Finland, Hong Kong, India, Mexico, Singapore",
     ],
   },
   {
@@ -48,8 +48,8 @@ var data = [
     "img": "img/",
     "year": 2011,
     "changes" : [
-      "Punchd is acquired by Google, into the Mobile Apps Lab, under Marissa Mayer's GeoLocal unit.",
-      "Countries visited: France, Hong Kong, India, Macau",
+      "Punchd acquired by Google, into the Mobile Apps Lab, under Marissa Mayer's GeoLocal unit.",
+      "Travels: France, Hong Kong, India, Macau",
     ],
   },
   {
@@ -57,9 +57,9 @@ var data = [
     "year": 2010,
     "img": "img/",
     "changes" : [
-      "Founded Punchd with Reed Morse and Xander Pollock with the intention of helping small businesses navigate through a digital world.",
-      "Moved to San Francisco with Michael Mizono.",
-      "Countries visited: Germany",
+      "Formally start Punchd with Reed Morse and Xander Pollock trying to help small businesses navigate an increasingly digital world.",
+      "Move to Union St., San Francisco with Michael Mizono.",
+      "Travels: Germany",
     ]
   },
   {
@@ -67,9 +67,9 @@ var data = [
     "img": "img/",
     "year": 2009,
     "changes" : [
-      "I meet Reed Morse, an enterprising computer scientist and tinkerer on a double-date in San Francisco.",
-      "Graduate from Berkeley with a degree in Industrial Engineering and Operations Research along with some of the best friends I'll have.",
-      "Countries visited: ",
+      "Meet Reed Morse, an enterprising computer scientist and tinkerer on double-date in San Francisco.",
+      "Graduate from Berkeley with a degree in Industrial Engineering and Operations Research along with exceptional friendships.",
+      "Travels: ",
     ]
   },
   {
@@ -77,7 +77,7 @@ var data = [
     "year": 2008,
     "img": "img/",
     "changes" : [
-      "Countries visited: ",
+      "Travels: ",
     ]
   },
   {
@@ -85,8 +85,8 @@ var data = [
     "year": 2007,
     "img": "img/",
     "changes": [
-      "Transferred to Berkeley and joined the Delta Chi fraternity.",
-      "Countries visited: ",
+      "Transfer to Berkeley. Join Delta Chi fraternity.",
+      "Travels: ",
     ]
   },
   {
@@ -94,8 +94,8 @@ var data = [
     "year": 2006,
     "img": "img/",
     "changes" : [
-      "Grandmother passes away on April Fool's Day. Joke was on us.",
-      "Countries visited: ",
+      "Grandmother dies on April Fool's Day. Joke was on us.",
+      "Travels: ",
     ]
   },
   {
@@ -103,9 +103,9 @@ var data = [
     "year": 2005,
     "img": "img/",
     "changes" : [
-      "Start school at De Anza College aiming to learn a mix of Mathematics or Engineering. Become a senior Math Tutor.",
+      "Start schooling at De Anza College learning Mathematics and Engineering. Become a senior mathematics tutor.",
       "Earn Eagle Scout rank with the BSA, capping a 10 year journey that began in Singapore.",
-      "Countries visited: France, Italy, Spain",
+      "Travels: France, Italy, Spain",
     ]
   },
   {
@@ -113,8 +113,8 @@ var data = [
     "year": 2004,
     "img": "img/",
     "changes" : [
-      "Arrested for trespassing at my former Kindergarten School. Banned from being within 100 feet for three years.",
-      "Countries visited: Singapore",
+      "Arrested for trespassing at my former Kindergarten, Regnart Elementary. Banned from location for three years.",
+      "Travels: Singapore",
     ]
   },
   {
@@ -122,8 +122,8 @@ var data = [
     "year": 2003,
     "img": "img/",
     "changes" : [
-      "Return to the USA from Singapore entering Monta Vista High School as a Junior.",
-      "Countries visited: India",
+      "Relocate from Singapore back to Cupertino, CA. Enter Monta Vista HS in 11th Standard (Junior).",
+      "Travels: India",
     ]
   },
   {
@@ -131,8 +131,8 @@ var data = [
     "year": 2002,
     "img": "img/",
     "changes" : [
-      "Dad gets laid off from our expat job, life becomes uncertain for the Desai family.",
-      "Countries visited: China, India, Indonesia, Malaysia",
+      "Dad laid off at Chartered Semiconductor. Life becomes uncertain for Desai family.",
+      "Travels: China, India, Indonesia, Malaysia",
     ]
   },
   {
@@ -140,7 +140,7 @@ var data = [
     "year": 2001,
     "img": "img/",
     "changes" : [
-      "Countries visited: Australia, India, Indonesia, Malaysia, New Zealand ",
+      "Travels: Australia, India, Indonesia, Malaysia, New Zealand",
     ]
   },
   {
@@ -148,8 +148,8 @@ var data = [
     "year": 2000,
     "img": "img/",
     "changes" : [
-      "Attend the 2000 Olympics in Sydney, Australia. Coincidentally, we have the best Indian food we've ever had there.",
-      "Countries visited: Australia, Cambodia, Malaysia, Thailand, Vietnam",
+      "Attend the 2000 Olympics in Sydney, Australia. Coincidentally stumble on best Indian food.",
+      "Travels: Australia, Cambodia, Malaysia, Thailand, Vietnam",
     ]
   },
   {
@@ -157,9 +157,9 @@ var data = [
     "year": 1999,
     "img": "img/",
     "changes" : [
-      "I start 7th standard at the Singapore American School. Solidify my taste for engineering taking Civil Engineering with Professor Diebly.",
-      "Our family moves to Singapore as my Dad pursues a larger role with Chartered Semiconductor.",
-      "Countries visited: India, Indonesia, Singapore",
+      "Start 7th standard at the Singapore American School.",
+      "Desai family moves to Singapore as my Dad pursues larger role with Chartered Semiconductor.",
+      "Travels: India, Indonesia, Singapore",
     ]
   },
   {
@@ -167,10 +167,10 @@ var data = [
     "year": 1998,
     "img": "img/",
     "changes" : [
-      "Luged down Mt. Playtpus.",
-      "Attend World Cup in France. Watch French beat Italy on their way to becoming World Champions.",
-      "Left Regnart Elementary as a 5th standard to enter 6th standard at John F. Kennedy Middle School.",
-      "Countries visited: England, France, Switzerland",
+      "Luge down Mt. Platpyus in Switzerland.",
+      "Attend World Cup in France watching France defeat Italy in quarter finals.",
+      "Leave Regnart Elementary in 5th standard to enter John F. Kennedy Middle School.",
+      "Travels: England, France, Switzerland",
     ]
   },
   {
@@ -178,9 +178,9 @@ var data = [
     "year": 1997,
     "img": "img/",
     "changes" : [
-      "Florida southern most place in US",
-      "Cruise to Jamaica ",
-      "Countries visited: Mexico, Jaimaca ",
+      "Visit Florida.",
+      "Cruise to Jamaica.",
+      "Travels: Mexico, Jamaica ",
     ]
   },
   {
@@ -188,8 +188,8 @@ var data = [
     "year": 1996,
     "img": "img/",
     "changes" : [
-      "",
-      "Countries visited: ",
+      "Attend 1996 Summer Olympics in Atlanta, GA. Confused by men's Field Hockey.",
+      "Travels: ",
     ]
   },
   {
@@ -197,8 +197,7 @@ var data = [
     "year": 1995,
     "img": "img/",
     "changes" : [
-      "Attend Summer Olympics in Atlanta, GA.",
-      "Countries visited: England, France",
+      "Travels:",
     ]
   },
   {
@@ -207,7 +206,7 @@ var data = [
     "img": "img/",
     "changes" : [
       "",
-      "Countries visited: England, France",
+      "Travels: England, France",
     ]
   },
   {
@@ -215,7 +214,7 @@ var data = [
     "year": 1993,
     "img": "img/",
     "changes" : [
-      "Countries visited",
+      "Travels",
     ]
   },
   {
@@ -223,7 +222,7 @@ var data = [
     "year": 1992,
     "img": "img/",
     "changes" : [
-      "Countries visited:",
+      "Travels:",
     ]
   },
   {
@@ -231,9 +230,9 @@ var data = [
     "year": 1991,
     "img": "img/",
     "changes" : [
-      "Moved to [READACTED], Cupertino CA.",
-      "New project: Natasha Desai Init on [REDACTED], 1991 11:31AM. Birthed at Good Samaritan in San Jose, CA.",
-      "Countries visited: ",
+      "Moved to Cupertino CA.",
+      "New project: Natasha Desai Init on [REDACTED], 1991 11:31AM. Arrival at Good Samaritan Hospital, San Jose, CA.",
+      "Travels: ",
     ]
   },
   {
@@ -241,7 +240,7 @@ var data = [
     "year": 1989,
     "img": "img/",
     "changes" : [
-      "Countries visited:",
+      "Travels:",
     ]
   },
   {
@@ -249,7 +248,7 @@ var data = [
     "year": 1988,
     "img": "img/",
     "changes" : [
-      "Countries visited: India",
+      "Travels: India",
     ]
   },
   {
@@ -257,7 +256,7 @@ var data = [
     "year": 1987,
     "img": "img/",
     "changes" : [
-      "Project Init on [REDACTED], 1987 5:07AM. Initial maintainers Meena Desai and Naushik Desai. Birthed at Good Samaritan in San Jose, CA.",
+      "Project Init on [REDACTED], 1987 5:07AM. Initial maintainers Meena Desai and Naushik Desai. Arrival at Good Samaritan Hospital, San Jose, CA.",
     ]
   },
 ];
